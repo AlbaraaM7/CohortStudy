@@ -1,0 +1,6 @@
+.palette-switcher-panel {
+  box-shadow:
+    0 20px 40px -15px rgba(0, 0, 0, 0.8),
+    0 0 0 1px rgba(255, 255, 255, 0.12),
+    0 0 60px -20px rgba(var(--accent), 0.3);
+}
